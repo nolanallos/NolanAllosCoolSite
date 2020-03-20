@@ -1,6 +1,9 @@
 ﻿<Properties StartupConfiguration="{39B5ADC4-F96C-434E-A80D-2C344771DABC}|Default">
   <MonoDevelop.Ide.ItemProperties.NolanCoolSite PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NolanCoolSite/Pages/Index.cshtml">
+    <Files>
+      <File FileName="NolanCoolSite/Pages/Index.cshtml" Line="4" Column="47" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
