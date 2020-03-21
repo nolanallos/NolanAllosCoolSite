@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{39B5ADC4-F96C-434E-A80D-2C344771DABC}|Default">
   <MonoDevelop.Ide.ItemProperties.NolanCoolSite PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NolanCoolSite/Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="NolanCoolSite/Pages/Index.cshtml" Line="4" Column="47" />
     </Files>
@@ -10,14 +10,11 @@
           <Node name="NolanCoolSite" expanded="True">
             <Node name="NolanCoolSite" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Index.cshtml" selected="True" />
+                <Node name="_ViewImports.cshtml" selected="True" />
               </Node>
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
